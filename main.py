@@ -1,2 +1,2 @@
-from funcs import func1
-print(func1())
+from funcs import func2
+print(func2())
